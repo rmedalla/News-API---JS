@@ -1,0 +1,9 @@
+.newsDiv {
+    height: 300px;
+    width: 400px;
+    overflow: hidden;
+   }
+.newsDiv img {
+    height: auto;
+    width: 400px;
+   }
